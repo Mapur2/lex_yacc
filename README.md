@@ -1,7 +1,3 @@
-Here’s a simple GitHub README for your project:
-
----
-
 # Compiler Design with Lex & Yacc: Symbol Table Interpreter  
 
 This project demonstrates the use of **Lex** and **Yacc** to design a mini language interpreter, implementing a **symbol table** to store variable assignments and perform arithmetic operations. The interpreter processes a custom `.rup` file format for variable assignments, basic arithmetic, and print statements.  
